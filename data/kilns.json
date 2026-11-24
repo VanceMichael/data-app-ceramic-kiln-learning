@@ -1,0 +1,164 @@
+[
+  {
+    "id": "k0",
+    "planned": "旧",
+    "actual": "旧",
+    "density": 0.6,
+    "energy_kwh": 85,
+    "material": "m0",
+    "day": 1
+  },
+  {
+    "id": "k1",
+    "planned": "新",
+    "actual": "新",
+    "density": 0.7,
+    "energy_kwh": 84,
+    "material": "m1",
+    "day": 2
+  },
+  {
+    "id": "k2",
+    "planned": "旧",
+    "actual": "旧",
+    "density": 0.8,
+    "energy_kwh": 86,
+    "material": "m2",
+    "day": 3
+  },
+  {
+    "id": "k3",
+    "planned": "新",
+    "actual": "旧",
+    "density": 0.6,
+    "energy_kwh": 70,
+    "material": "m0",
+    "day": 4
+  },
+  {
+    "id": "k4",
+    "planned": "旧",
+    "actual": "旧",
+    "density": 0.7,
+    "energy_kwh": 77,
+    "material": "m1",
+    "day": 5
+  },
+  {
+    "id": "k5",
+    "planned": "新",
+    "actual": "新",
+    "density": 0.8,
+    "energy_kwh": 98,
+    "material": "m2",
+    "day": 6
+  },
+  {
+    "id": "k6",
+    "planned": "旧",
+    "actual": "旧",
+    "density": 0.6,
+    "energy_kwh": 76,
+    "material": "m0",
+    "day": 7
+  },
+  {
+    "id": "k7",
+    "planned": "新",
+    "actual": "新",
+    "density": 0.7,
+    "energy_kwh": 87,
+    "material": "m1",
+    "day": 8
+  },
+  {
+    "id": "k8",
+    "planned": "旧",
+    "actual": "旧",
+    "density": 0.8,
+    "energy_kwh": 77,
+    "material": "m2",
+    "day": 9
+  },
+  {
+    "id": "k9",
+    "planned": "新",
+    "actual": "新",
+    "density": 0.6,
+    "energy_kwh": 99,
+    "material": "m0",
+    "day": 10
+  },
+  {
+    "id": "k10",
+    "planned": "旧",
+    "actual": "旧",
+    "density": 0.7,
+    "energy_kwh": 78,
+    "material": "m1",
+    "day": 11
+  },
+  {
+    "id": "k11",
+    "planned": "新",
+    "actual": "新",
+    "density": 0.8,
+    "energy_kwh": 90,
+    "material": "m2",
+    "day": 12
+  },
+  {
+    "id": "k12",
+    "planned": "旧",
+    "actual": "旧",
+    "density": 0.6,
+    "energy_kwh": 86,
+    "material": "m0",
+    "day": 13
+  },
+  {
+    "id": "k13",
+    "planned": "新",
+    "actual": "新",
+    "density": 0.7,
+    "energy_kwh": 80,
+    "material": "m1",
+    "day": 14
+  },
+  {
+    "id": "k14",
+    "planned": "旧",
+    "actual": "旧",
+    "density": 0.8,
+    "energy_kwh": 89,
+    "material": "m2",
+    "day": 15
+  },
+  {
+    "id": "k15",
+    "planned": "新",
+    "actual": "新",
+    "density": 0.6,
+    "energy_kwh": 82,
+    "material": "m0",
+    "day": 16
+  },
+  {
+    "id": "k16",
+    "planned": "旧",
+    "actual": "旧",
+    "density": 0.7,
+    "energy_kwh": 79,
+    "material": "m1",
+    "day": 17
+  },
+  {
+    "id": "k17",
+    "planned": "新",
+    "actual": "新",
+    "density": 0.8,
+    "energy_kwh": 74,
+    "material": "m2",
+    "day": 18
+  }
+]

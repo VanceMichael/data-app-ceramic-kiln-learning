@@ -1,0 +1,20 @@
+[
+  {
+    "id": "o1",
+    "use": "煮茶",
+    "qty": 8,
+    "shape": "茶壶",
+    "evidence": "每批检验",
+    "min_heat_cycles": 5,
+    "max_visual_grade": 3
+  },
+  {
+    "id": "o2",
+    "use": "摆设",
+    "qty": 10,
+    "shape": "花器",
+    "evidence": "批准加过程",
+    "min_heat_cycles": 0,
+    "max_visual_grade": 4
+  }
+]

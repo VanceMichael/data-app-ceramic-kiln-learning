@@ -1,0 +1,1955 @@
+[
+  {
+    "id": "t0",
+    "piece": "p0",
+    "kind": "外观",
+    "value": 0.3040139613030224,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t1",
+    "piece": "p0",
+    "kind": "耐热",
+    "value": 0.8198534648535316,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t2",
+    "piece": "p1",
+    "kind": "外观",
+    "value": 4.635563993835615,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t3",
+    "piece": "p1",
+    "kind": "耐热",
+    "value": 2.0386335607740094,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t4",
+    "piece": "p2",
+    "kind": "外观",
+    "value": 1.1412278380641894,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t5",
+    "piece": "p2",
+    "kind": "耐热",
+    "value": 2.2667246161685775,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t6",
+    "piece": "p3",
+    "kind": "外观",
+    "value": 2.408057707805199,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t7",
+    "piece": "p3",
+    "kind": "耐热",
+    "value": 4.630082831133558,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t8",
+    "piece": "p4",
+    "kind": "外观",
+    "value": 2.705676863784695,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t9",
+    "piece": "p4",
+    "kind": "耐热",
+    "value": 7.951531057618343,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t10",
+    "piece": "p5",
+    "kind": "外观",
+    "value": 2.1145998042586034,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t11",
+    "piece": "p5",
+    "kind": "耐热",
+    "value": 6.250228045062932,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t12",
+    "piece": "p6",
+    "kind": "外观",
+    "value": 3.6413027122544595,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t13",
+    "piece": "p6",
+    "kind": "耐热",
+    "value": 8.928949487506937,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t14",
+    "piece": "p7",
+    "kind": "外观",
+    "value": 7.840969831417041,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t15",
+    "piece": "p7",
+    "kind": "耐热",
+    "value": 9.146683262162274,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t16",
+    "piece": "p8",
+    "kind": "外观",
+    "value": 0.0796937900693162,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t17",
+    "piece": "p8",
+    "kind": "耐热",
+    "value": 4.823446987757682,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t18",
+    "piece": "p9",
+    "kind": "外观",
+    "value": 9.29813329600086,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t19",
+    "piece": "p9",
+    "kind": "耐热",
+    "value": 9.032970436596887,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t20",
+    "piece": "p10",
+    "kind": "外观",
+    "value": 4.3965402439280465,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t21",
+    "piece": "p10",
+    "kind": "耐热",
+    "value": 2.27252624290599,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t22",
+    "piece": "p11",
+    "kind": "外观",
+    "value": 2.7766564169678167,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t23",
+    "piece": "p11",
+    "kind": "耐热",
+    "value": 9.12677818758602,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t24",
+    "piece": "p12",
+    "kind": "外观",
+    "value": 3.5745269442348206,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t25",
+    "piece": "p12",
+    "kind": "耐热",
+    "value": 1.9913139293836768,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t26",
+    "piece": "p13",
+    "kind": "外观",
+    "value": 4.099316623566541,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t27",
+    "piece": "p13",
+    "kind": "耐热",
+    "value": 8.189794653410349,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t28",
+    "piece": "p14",
+    "kind": "外观",
+    "value": 1.0372233113638618,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t29",
+    "piece": "p14",
+    "kind": "耐热",
+    "value": 0.836981591412781,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t30",
+    "piece": "p15",
+    "kind": "外观",
+    "value": 9.48091636211529,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t31",
+    "piece": "p15",
+    "kind": "耐热",
+    "value": 4.491178393083162,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t32",
+    "piece": "p16",
+    "kind": "外观",
+    "value": 6.93567716632871,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t33",
+    "piece": "p16",
+    "kind": "耐热",
+    "value": 2.002531791336498,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t34",
+    "piece": "p17",
+    "kind": "外观",
+    "value": 9.80855590225152,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t35",
+    "piece": "p17",
+    "kind": "耐热",
+    "value": 8.884936114528504,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t36",
+    "piece": "p18",
+    "kind": "外观",
+    "value": 3.386023564299575,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t37",
+    "piece": "p18",
+    "kind": "耐热",
+    "value": 0.9712937435212621,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t38",
+    "piece": "p19",
+    "kind": "外观",
+    "value": 0.8039822019946974,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t39",
+    "piece": "p19",
+    "kind": "耐热",
+    "value": 2.7965796031311463,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t40",
+    "piece": "p20",
+    "kind": "外观",
+    "value": 5.279215116907732,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t41",
+    "piece": "p20",
+    "kind": "耐热",
+    "value": 7.358193477639868,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t42",
+    "piece": "p21",
+    "kind": "外观",
+    "value": 3.927094212275253,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t43",
+    "piece": "p21",
+    "kind": "耐热",
+    "value": 0.28738585329349475,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t44",
+    "piece": "p22",
+    "kind": "外观",
+    "value": 4.739571444229802,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t45",
+    "piece": "p22",
+    "kind": "耐热",
+    "value": 1.169940481967373,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t46",
+    "piece": "p23",
+    "kind": "外观",
+    "value": 1.321919531860839,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t47",
+    "piece": "p23",
+    "kind": "耐热",
+    "value": 2.129556586774334,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t48",
+    "piece": "p24",
+    "kind": "外观",
+    "value": 6.415827847414772,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t49",
+    "piece": "p24",
+    "kind": "耐热",
+    "value": 4.318852039117421,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t50",
+    "piece": "p25",
+    "kind": "外观",
+    "value": 4.066510062394798,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t51",
+    "piece": "p25",
+    "kind": "耐热",
+    "value": 4.094629740034385,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t52",
+    "piece": "p26",
+    "kind": "外观",
+    "value": 9.578052276618331,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t53",
+    "piece": "p26",
+    "kind": "耐热",
+    "value": 9.361075589645022,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t54",
+    "piece": "p27",
+    "kind": "外观",
+    "value": 8.716122075107046,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t55",
+    "piece": "p27",
+    "kind": "耐热",
+    "value": 0.4449335347776795,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t56",
+    "piece": "p28",
+    "kind": "外观",
+    "value": 2.606290216342625,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t57",
+    "piece": "p28",
+    "kind": "耐热",
+    "value": 7.470617091407087,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t58",
+    "piece": "p29",
+    "kind": "外观",
+    "value": 3.065773280142481,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t59",
+    "piece": "p29",
+    "kind": "耐热",
+    "value": 2.9133909606482,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t60",
+    "piece": "p30",
+    "kind": "外观",
+    "value": 3.8674086063252124,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t61",
+    "piece": "p30",
+    "kind": "耐热",
+    "value": 4.383569825064388,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t62",
+    "piece": "p31",
+    "kind": "外观",
+    "value": 2.9061563794970713,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t63",
+    "piece": "p31",
+    "kind": "耐热",
+    "value": 2.923751065127277,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t64",
+    "piece": "p32",
+    "kind": "外观",
+    "value": 9.70158580781506,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t65",
+    "piece": "p32",
+    "kind": "耐热",
+    "value": 5.956428808882006,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t66",
+    "piece": "p33",
+    "kind": "外观",
+    "value": 9.292122782367544,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t67",
+    "piece": "p33",
+    "kind": "耐热",
+    "value": 9.696050045423906,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t68",
+    "piece": "p34",
+    "kind": "外观",
+    "value": 7.370788755783964,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t69",
+    "piece": "p34",
+    "kind": "耐热",
+    "value": 0.0139392406804284,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t70",
+    "piece": "p35",
+    "kind": "外观",
+    "value": 0.917099986813158,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t71",
+    "piece": "p35",
+    "kind": "耐热",
+    "value": 5.839663877785874,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t72",
+    "piece": "p36",
+    "kind": "外观",
+    "value": 2.369730154305576,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t73",
+    "piece": "p36",
+    "kind": "耐热",
+    "value": 8.113904447055612,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t74",
+    "piece": "p37",
+    "kind": "外观",
+    "value": 4.225262021131599,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t75",
+    "piece": "p37",
+    "kind": "耐热",
+    "value": 0.14343458791178043,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t76",
+    "piece": "p38",
+    "kind": "外观",
+    "value": 4.733050207970223,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t77",
+    "piece": "p38",
+    "kind": "耐热",
+    "value": 7.936074440478976,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t78",
+    "piece": "p39",
+    "kind": "外观",
+    "value": 1.1586490979388753,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t79",
+    "piece": "p39",
+    "kind": "耐热",
+    "value": 3.1078663529339745,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t80",
+    "piece": "p40",
+    "kind": "外观",
+    "value": 0.8016514249497952,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t81",
+    "piece": "p40",
+    "kind": "耐热",
+    "value": 3.771127694417533,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t82",
+    "piece": "p41",
+    "kind": "外观",
+    "value": 4.845992411255314,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t83",
+    "piece": "p41",
+    "kind": "耐热",
+    "value": 5.966217966163089,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t84",
+    "piece": "p42",
+    "kind": "外观",
+    "value": 2.9920897884829456,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t85",
+    "piece": "p42",
+    "kind": "耐热",
+    "value": 0.1339275164418685,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t86",
+    "piece": "p43",
+    "kind": "外观",
+    "value": 9.799633968285612,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t87",
+    "piece": "p43",
+    "kind": "耐热",
+    "value": 6.316778498785201,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t88",
+    "piece": "p44",
+    "kind": "外观",
+    "value": 2.4436471473701227,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t89",
+    "piece": "p44",
+    "kind": "耐热",
+    "value": 5.6569917660643645,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t90",
+    "piece": "p45",
+    "kind": "外观",
+    "value": 0.45491679101115845,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t91",
+    "piece": "p45",
+    "kind": "耐热",
+    "value": 9.61997781754027,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t92",
+    "piece": "p46",
+    "kind": "外观",
+    "value": 5.828510664007424,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t93",
+    "piece": "p46",
+    "kind": "耐热",
+    "value": 2.0741343765066045,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t94",
+    "piece": "p47",
+    "kind": "外观",
+    "value": 5.628472401048182,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t95",
+    "piece": "p47",
+    "kind": "耐热",
+    "value": 0.9613885191784399,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t96",
+    "piece": "p48",
+    "kind": "外观",
+    "value": 5.436852238773757,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t97",
+    "piece": "p48",
+    "kind": "耐热",
+    "value": 9.149105459730325,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t98",
+    "piece": "p49",
+    "kind": "外观",
+    "value": 2.8569015674028595,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t99",
+    "piece": "p49",
+    "kind": "耐热",
+    "value": 0.7776002950177086,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t100",
+    "piece": "p50",
+    "kind": "外观",
+    "value": 8.502939331871527,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t101",
+    "piece": "p50",
+    "kind": "耐热",
+    "value": 0.30410857792415147,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t102",
+    "piece": "p51",
+    "kind": "外观",
+    "value": 6.817681734910941,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t103",
+    "piece": "p51",
+    "kind": "耐热",
+    "value": 1.7184534179658784,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t104",
+    "piece": "p52",
+    "kind": "外观",
+    "value": 1.8927725307341392,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t105",
+    "piece": "p52",
+    "kind": "耐热",
+    "value": 0.17820377930709008,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t106",
+    "piece": "p53",
+    "kind": "外观",
+    "value": 0.07709082084917496,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t107",
+    "piece": "p53",
+    "kind": "耐热",
+    "value": 7.515778460619438,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t108",
+    "piece": "p54",
+    "kind": "外观",
+    "value": 5.445440012546451,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t109",
+    "piece": "p54",
+    "kind": "耐热",
+    "value": 1.885089197270725,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t110",
+    "piece": "p55",
+    "kind": "外观",
+    "value": 4.500218268881104,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t111",
+    "piece": "p55",
+    "kind": "耐热",
+    "value": 5.153355818122602,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t112",
+    "piece": "p56",
+    "kind": "外观",
+    "value": 6.834669319485132,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t113",
+    "piece": "p56",
+    "kind": "耐热",
+    "value": 2.9008463415260586,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t114",
+    "piece": "p57",
+    "kind": "外观",
+    "value": 7.3855603096430045,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t115",
+    "piece": "p57",
+    "kind": "耐热",
+    "value": 3.0072999919737606,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t116",
+    "piece": "p58",
+    "kind": "外观",
+    "value": 8.39091492233051,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t117",
+    "piece": "p58",
+    "kind": "耐热",
+    "value": 4.757914270398681,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t118",
+    "piece": "p59",
+    "kind": "外观",
+    "value": 6.073494343403832,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t119",
+    "piece": "p59",
+    "kind": "耐热",
+    "value": 2.788824959233369,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t120",
+    "piece": "p60",
+    "kind": "外观",
+    "value": 1.559139959487592,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t121",
+    "piece": "p60",
+    "kind": "耐热",
+    "value": 8.800377135197653,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t122",
+    "piece": "p61",
+    "kind": "外观",
+    "value": 4.577244029057079,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t123",
+    "piece": "p61",
+    "kind": "耐热",
+    "value": 2.9914000314241385,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t124",
+    "piece": "p62",
+    "kind": "外观",
+    "value": 1.665367093094009,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t125",
+    "piece": "p62",
+    "kind": "耐热",
+    "value": 8.999323244973844,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t126",
+    "piece": "p63",
+    "kind": "外观",
+    "value": 4.379826658004928,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t127",
+    "piece": "p63",
+    "kind": "耐热",
+    "value": 8.82208794972007,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t128",
+    "piece": "p64",
+    "kind": "外观",
+    "value": 5.474608405717641,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t129",
+    "piece": "p64",
+    "kind": "耐热",
+    "value": 6.173369838198214,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t130",
+    "piece": "p65",
+    "kind": "外观",
+    "value": 6.167802349897903,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t131",
+    "piece": "p65",
+    "kind": "耐热",
+    "value": 6.614143159473582,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t132",
+    "piece": "p66",
+    "kind": "外观",
+    "value": 9.208116433748806,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t133",
+    "piece": "p66",
+    "kind": "耐热",
+    "value": 9.574512001512794,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t134",
+    "piece": "p67",
+    "kind": "外观",
+    "value": 1.7120647419412227,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t135",
+    "piece": "p67",
+    "kind": "耐热",
+    "value": 8.232908065874584,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t136",
+    "piece": "p68",
+    "kind": "外观",
+    "value": 1.7301806019807697,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t137",
+    "piece": "p68",
+    "kind": "耐热",
+    "value": 0.8514982707991681,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t138",
+    "piece": "p69",
+    "kind": "外观",
+    "value": 9.216242413320497,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t139",
+    "piece": "p69",
+    "kind": "耐热",
+    "value": 8.52060160537694,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t140",
+    "piece": "p70",
+    "kind": "外观",
+    "value": 6.51380965632659,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t141",
+    "piece": "p70",
+    "kind": "耐热",
+    "value": 1.5034568059908393,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t142",
+    "piece": "p71",
+    "kind": "外观",
+    "value": 1.7414646465865735,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t143",
+    "piece": "p71",
+    "kind": "耐热",
+    "value": 1.4579834509621803,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t144",
+    "piece": "p72",
+    "kind": "外观",
+    "value": 8.949119514600444,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t145",
+    "piece": "p72",
+    "kind": "耐热",
+    "value": 8.406751888821749,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t146",
+    "piece": "p73",
+    "kind": "外观",
+    "value": 2.2123818917601348,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t147",
+    "piece": "p73",
+    "kind": "耐热",
+    "value": 2.8006801256137726,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t148",
+    "piece": "p74",
+    "kind": "外观",
+    "value": 4.298365496977836,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t149",
+    "piece": "p74",
+    "kind": "耐热",
+    "value": 9.766418039420639,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t150",
+    "piece": "p75",
+    "kind": "外观",
+    "value": 8.994982977497886,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t151",
+    "piece": "p75",
+    "kind": "耐热",
+    "value": 2.3247779732282536,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t152",
+    "piece": "p76",
+    "kind": "外观",
+    "value": 6.943905410769427,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t153",
+    "piece": "p76",
+    "kind": "耐热",
+    "value": 9.254456187488298,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t154",
+    "piece": "p77",
+    "kind": "外观",
+    "value": 3.227751330525772,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t155",
+    "piece": "p77",
+    "kind": "耐热",
+    "value": 2.951577940406489,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t156",
+    "piece": "p78",
+    "kind": "外观",
+    "value": 3.6362009439471397,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t157",
+    "piece": "p78",
+    "kind": "耐热",
+    "value": 4.8043639963707685,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t158",
+    "piece": "p79",
+    "kind": "外观",
+    "value": 1.1100390396948556,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t159",
+    "piece": "p79",
+    "kind": "耐热",
+    "value": 5.778605212059573,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t160",
+    "piece": "p80",
+    "kind": "外观",
+    "value": 1.3648848022130078,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t161",
+    "piece": "p80",
+    "kind": "耐热",
+    "value": 6.646961842147336,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t162",
+    "piece": "p81",
+    "kind": "外观",
+    "value": 6.1575139210891825,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t163",
+    "piece": "p81",
+    "kind": "耐热",
+    "value": 0.13911033958379337,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t164",
+    "piece": "p82",
+    "kind": "外观",
+    "value": 5.21531977189864,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t165",
+    "piece": "p82",
+    "kind": "耐热",
+    "value": 4.373117399012827,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t166",
+    "piece": "p83",
+    "kind": "外观",
+    "value": 7.728668741773522,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t167",
+    "piece": "p83",
+    "kind": "耐热",
+    "value": 5.306347245279552,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t168",
+    "piece": "p84",
+    "kind": "外观",
+    "value": 8.765026920999535,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t169",
+    "piece": "p84",
+    "kind": "耐热",
+    "value": 0.20679353566853353,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t170",
+    "piece": "p85",
+    "kind": "外观",
+    "value": 8.447949924484549,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t171",
+    "piece": "p85",
+    "kind": "耐热",
+    "value": 4.748218066910218,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t172",
+    "piece": "p86",
+    "kind": "外观",
+    "value": 6.223452428949962,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t173",
+    "piece": "p86",
+    "kind": "耐热",
+    "value": 5.024481846767577,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t174",
+    "piece": "p87",
+    "kind": "外观",
+    "value": 4.141978969281554,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t175",
+    "piece": "p87",
+    "kind": "耐热",
+    "value": 9.753155355016318,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t176",
+    "piece": "p88",
+    "kind": "外观",
+    "value": 6.545524030330317,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t177",
+    "piece": "p88",
+    "kind": "耐热",
+    "value": 2.2257939490948084,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t178",
+    "piece": "p89",
+    "kind": "外观",
+    "value": 1.7035443220914936,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t179",
+    "piece": "p89",
+    "kind": "耐热",
+    "value": 3.281214044661509,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t180",
+    "piece": "p90",
+    "kind": "外观",
+    "value": 2.1336833544167364,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t181",
+    "piece": "p90",
+    "kind": "耐热",
+    "value": 4.473024651830457,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t182",
+    "piece": "p91",
+    "kind": "外观",
+    "value": 3.5065875214313804,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t183",
+    "piece": "p91",
+    "kind": "耐热",
+    "value": 9.58955462955555,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t184",
+    "piece": "p92",
+    "kind": "外观",
+    "value": 5.573931632117696,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t185",
+    "piece": "p92",
+    "kind": "耐热",
+    "value": 3.216330008941778,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t186",
+    "piece": "p93",
+    "kind": "外观",
+    "value": 7.0812414089880225,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t187",
+    "piece": "p93",
+    "kind": "耐热",
+    "value": 3.4267793354896647,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t188",
+    "piece": "p94",
+    "kind": "外观",
+    "value": 2.1008966161767284,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t189",
+    "piece": "p94",
+    "kind": "耐热",
+    "value": 6.583815129059652,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t190",
+    "piece": "p95",
+    "kind": "外观",
+    "value": 6.654833381186972,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t191",
+    "piece": "p95",
+    "kind": "耐热",
+    "value": 8.493857312970865,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t192",
+    "piece": "p96",
+    "kind": "外观",
+    "value": 1.0759251949665738,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t193",
+    "piece": "p96",
+    "kind": "耐热",
+    "value": 7.2973302634073285,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t194",
+    "piece": "p97",
+    "kind": "外观",
+    "value": 4.232800354529944,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t195",
+    "piece": "p97",
+    "kind": "耐热",
+    "value": 9.452182041826987,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t196",
+    "piece": "p98",
+    "kind": "外观",
+    "value": 3.627427773533489,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t197",
+    "piece": "p98",
+    "kind": "耐热",
+    "value": 3.6628123705151348,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t198",
+    "piece": "p99",
+    "kind": "外观",
+    "value": 3.3416533161872577,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t199",
+    "piece": "p99",
+    "kind": "耐热",
+    "value": 4.8370922934398894,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t200",
+    "piece": "p100",
+    "kind": "外观",
+    "value": 0.7859704773474296,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t201",
+    "piece": "p100",
+    "kind": "耐热",
+    "value": 6.997210095682018,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t202",
+    "piece": "p101",
+    "kind": "外观",
+    "value": 2.79380440822651,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t203",
+    "piece": "p101",
+    "kind": "耐热",
+    "value": 0.20308917351453348,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t204",
+    "piece": "p102",
+    "kind": "外观",
+    "value": 7.057601684758358,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t205",
+    "piece": "p102",
+    "kind": "耐热",
+    "value": 1.3611690752074668,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t206",
+    "piece": "p103",
+    "kind": "外观",
+    "value": 6.713552962767756,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t207",
+    "piece": "p103",
+    "kind": "耐热",
+    "value": 7.196896258908127,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t208",
+    "piece": "p104",
+    "kind": "外观",
+    "value": 2.635546667058205,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t209",
+    "piece": "p104",
+    "kind": "耐热",
+    "value": 5.394222007190363,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t210",
+    "piece": "p105",
+    "kind": "外观",
+    "value": 3.282883475186953,
+    "unit": "缺陷等级",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t211",
+    "piece": "p105",
+    "kind": "耐热",
+    "value": 7.577151407107808,
+    "unit": "循环次",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t212",
+    "piece": "p106",
+    "kind": "外观",
+    "value": 6.770205676547295,
+    "unit": "缺陷等级",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "t213",
+    "piece": "p106",
+    "kind": "耐热",
+    "value": 9.151651728816256,
+    "unit": "循环次",
+    "known_day": 20,
+    "state": "有效"
+  },
+  {
+    "id": "t214",
+    "piece": "p107",
+    "kind": "外观",
+    "value": 1.592292875126493,
+    "unit": "缺陷等级",
+    "known_day": 21,
+    "state": "有效"
+  },
+  {
+    "id": "t215",
+    "piece": "p107",
+    "kind": "耐热",
+    "value": 3.6545137070312785,
+    "unit": "循环次",
+    "known_day": 22,
+    "state": "有效"
+  },
+  {
+    "id": "withdraw",
+    "piece": "p6",
+    "kind": "耐热",
+    "value": 0,
+    "unit": "循环次",
+    "known_day": 25,
+    "state": "撤销"
+  }
+]

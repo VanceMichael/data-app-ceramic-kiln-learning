@@ -1,0 +1,209 @@
+{
+  "format_version": 1,
+  "synthetic": true,
+  "tables": {
+    "kilns": {
+      "description": "每窑是独立试烧单位",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "窑次"
+        },
+        "planned": {
+          "type": "string",
+          "description": "原工艺"
+        },
+        "actual": {
+          "type": "string",
+          "description": "实际工艺"
+        },
+        "density": {
+          "type": "number",
+          "description": "装载密度"
+        },
+        "energy_kwh": {
+          "type": "number",
+          "description": "实耗电量"
+        },
+        "material": {
+          "type": "string",
+          "description": "材料批"
+        },
+        "day": {
+          "type": "integer",
+          "description": "烧制日"
+        }
+      },
+      "refs": {}
+    },
+    "pieces": {
+      "description": "坯体实物可以返工；留样不可销售",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "实物"
+        },
+        "kiln": {
+          "type": "string",
+          "description": "当前窑次"
+        },
+        "shape": {
+          "type": "string",
+          "description": "器型"
+        },
+        "maker": {
+          "type": "string",
+          "description": "制作人"
+        },
+        "position": {
+          "type": "string",
+          "description": "窑位"
+        },
+        "formed_day": {
+          "type": "integer",
+          "description": "成型日"
+        },
+        "sample": {
+          "type": "boolean",
+          "description": "是否留样"
+        },
+        "reworked_from": {
+          "type": "string",
+          "description": "返工前实物记录或空"
+        }
+      },
+      "refs": {
+        "kiln": "kilns.id"
+      }
+    },
+    "tests": {
+      "description": "分项检验，不含预先统计结论",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "检验"
+        },
+        "piece": {
+          "type": "string",
+          "description": "实物"
+        },
+        "kind": {
+          "type": "string",
+          "description": "外观或耐热"
+        },
+        "value": {
+          "type": "number",
+          "description": "数值"
+        },
+        "unit": {
+          "type": "string",
+          "description": "单位"
+        },
+        "known_day": {
+          "type": "integer",
+          "description": "知悉日"
+        },
+        "state": {
+          "type": "string",
+          "description": "有效或撤销"
+        }
+      },
+      "refs": {
+        "piece": "pieces.id"
+      }
+    },
+    "approvals": {
+      "description": "已有工艺批准，不代表全部工况",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "批准"
+        },
+        "process": {
+          "type": "string",
+          "description": "工艺"
+        },
+        "shapes": {
+          "type": "array",
+          "description": "器型"
+        },
+        "materials": {
+          "type": "array",
+          "description": "材料"
+        },
+        "max_density": {
+          "type": "number",
+          "description": "最高密度"
+        },
+        "effective_day": {
+          "type": "integer",
+          "description": "起效日"
+        },
+        "state": {
+          "type": "string",
+          "description": "状态"
+        }
+      },
+      "refs": {}
+    },
+    "orders": {
+      "description": "客户用途与允许的证据方式",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "订单"
+        },
+        "use": {
+          "type": "string",
+          "description": "用途"
+        },
+        "qty": {
+          "type": "integer",
+          "description": "件数"
+        },
+        "shape": {
+          "type": "string",
+          "description": "器型"
+        },
+        "evidence": {
+          "type": "string",
+          "description": "每批检验或批准加过程"
+        },
+        "min_heat_cycles": {
+          "type": "number",
+          "description": "最低耐热"
+        },
+        "max_visual_grade": {
+          "type": "number",
+          "description": "最大外观缺陷等级"
+        }
+      },
+      "refs": {}
+    },
+    "dispatches": {
+      "description": "实际出库事实不随批准撤回消失",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "出库"
+        },
+        "piece": {
+          "type": "string",
+          "description": "实物"
+        },
+        "order": {
+          "type": "string",
+          "description": "订单"
+        },
+        "day": {
+          "type": "integer",
+          "description": "出库日"
+        }
+      },
+      "refs": {
+        "piece": "pieces.id",
+        "order": "orders.id"
+      }
+    }
+  }
+}

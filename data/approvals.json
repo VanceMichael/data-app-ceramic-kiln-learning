@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a1",
+    "process": "新",
+    "shapes": [
+      "茶壶"
+    ],
+    "materials": [
+      "m0",
+      "m1"
+    ],
+    "max_density": 0.7,
+    "effective_day": 23,
+    "state": "已批准"
+  }
+]
